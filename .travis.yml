@@ -1,0 +1,3 @@
+language: objective-c
+xcode_project: SwipeApp.xcodeproj
+xcode_scheme: SwipeAppTests
