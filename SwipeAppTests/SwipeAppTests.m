@@ -7,6 +7,8 @@
 //
 
 #import <XCTest/XCTest.h>
+#import "Reachability.h"
+
 
 @interface SwipeAppTests : XCTestCase
 
